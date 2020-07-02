@@ -1,1 +1,15 @@
-The React-native codes for the University of Hong Kong on the coursera platform.
+## Some of the techniques and technologies used on this project:
+- React Native Components
+- Navigation
+- Icons, Fonts & Buttons
+- Json-server
+- Redux for React Native
+- Debugging
+- Forms and Modals
+- Animatable
+- Gestures
+- Persist Redux Store
+- Expo SDK
+- Secure Store
+- Notifications
+- Social Sharing
